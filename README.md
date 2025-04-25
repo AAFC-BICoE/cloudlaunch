@@ -1,3 +1,5 @@
+⛔️ This project is now archived - No Maintenance Intended
+
 ## Table of Contents
 
 - [Installing a dev instance](#installing-a-dev-instance)
